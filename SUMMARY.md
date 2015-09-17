@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 # 目录 
 
 * [第1章：Go 语言的起源，发展与普及](eBook/01.0.md)
 	* [1.1 起源与发展](eBook/01.1.md)
 	* [1.2 语言的主要特性与发展的环境和影响因素](eBook/01.2.md)
 
+=======
+* [第1章：Go 语言的起源，发展与普及](eBook/01.0.md)
+	* [1.1 起源与发展](eBook/01.1.md)
+	* [1.2 语言的主要特性与发展的环境和影响因素](eBook/01.2.md)
+>>>>>>> gitbook init
 * [第2章：安装与运行环境](eBook/02.0.md)
 	* [2.1 平台与架构](eBook/02.1.md)
 	* [2.2 Go 环境变量](eBook/02.2.md)
@@ -13,7 +19,10 @@
 	* [2.6 安装目录清单](eBook/02.6.md)
 	* [2.7 Go 运行时（runtime）](eBook/02.7.md)
 	* [2.8 Go 解释器](eBook/02.8.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第3章：编辑器、集成开发环境与其它工具](eBook/03.0.md)
 	* [3.1 Go 开发环境的基本要求](eBook/03.1.md)
 	* [3.2 编辑器和集成开发环境](eBook/03.2.md)
@@ -24,7 +33,10 @@
 	* [3.7 其它工具](eBook/03.7.md)
 	* [3.8 Go 性能说明](eBook/03.8.md)
 	* [3.9 与其它语言进行交互](eBook/03.9.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第4章：基本结构和基本数据类型](eBook/04.0.md)
 	* [4.1 文件名、关键字与标识符](eBook/04.1.md)
 	* [4.2 Go 程序的基本结构和要素](eBook/04.2.md)
@@ -35,7 +47,10 @@
 	* [4.7 strings 和 strconv 包](eBook/04.7.md)
 	* [4.8 时间和日期](eBook/04.8.md)
 	* [4.9 指针](eBook/04.9.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第5章：控制结构](eBook/05.0.md)
 	* [5.1 if-else 结构](eBook/05.1.md)
 	* [5.2 测试多返回值函数的错误](eBook/05.2.md)
@@ -43,7 +58,10 @@
 	* [5.4 for 结构](eBook/05.4.md)
 	* [5.5 Break 与 continue](eBook/05.5.md)
 	* [5.6 标签与 goto](eBook/05.6.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第6章：函数（function）](eBook/06.0.md)
 	* [6.1 介绍](eBook/06.1.md)
 	* [6.2 函数参数与返回值](eBook/06.2.md)
@@ -57,7 +75,10 @@
 	* [6.10 使用闭包调试](eBook/06.10.md)
 	* [6.11 计算函数执行时间](eBook/06.11.md)
 	* [6.12 通过内存缓存来提升性能](eBook/06.12.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第7章：数组与切片](eBook/07.0.md)
 	* [7.1 声明和初始化](eBook/07.1.md)
 	* [7.2 切片](eBook/07.2.md)
@@ -65,7 +86,10 @@
 	* [7.4 切片重组（reslice）](eBook/07.4.md)
 	* [7.5 切片的复制与追加](eBook/07.5.md)
 	* [7.6 字符串、数组和切片的应用](eBook/07.6.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第8章：Map](eBook/08.0.md)
 	* [8.1 声明、初始化和 make](eBook/08.1.md)
 	* [8.2 测试键值对是否存在及删除元素](eBook/08.2.md)
@@ -73,7 +97,10 @@
 	* [8.4 map 类型的切片](eBook/08.4.md)
 	* [8.5 map 的排序](eBook/08.5.md)
 	* [8.6 将 map 的键值对调](eBook/08.6.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第9章：包（package）](eBook/09.0.md)
 	* [9.1 标准库概述](eBook/09.1.md)
 	* [9.2 regexp 包](eBook/09.2.md)
@@ -86,7 +113,10 @@
 	* [9.9 通过 Git 打包和安装](eBook/09.9.md)
 	* [9.10 Go 的外部包和项目](eBook/09.10.md)
 	* [9.11 在 Go 程序中使用外部库](eBook/09.11.md)
+<<<<<<< HEAD
 	
+=======
+>>>>>>> gitbook init
 * [第10章：结构（struct）与方法（method）](eBook/10.0.md)
     * [10.1 结构体定义](eBook/10.1.md)
     * [10.2 使用工厂方法创建结构体实例](eBook/10.2.md)
@@ -96,7 +126,10 @@
     * [10.6 方法](eBook/10.6.md)
     * [10.7 类型的 String() 方法和格式化描述符](eBook/10.7.md)
     * [10.8 垃圾回收和 SetFinalizer](eBook/10.8.md)
+<<<<<<< HEAD
     
+=======
+>>>>>>> gitbook init
 * [第11章：接口（interface）与反射（reflection）](eBook/11.0.md)
     * [11.1 接口是什么](eBook/11.1.md)
     * [11.2 接口嵌套接口](eBook/11.2.md)
@@ -107,7 +140,10 @@
     * [11.7 第一个例子：使用 Sorter 接口排序](eBook/11.7.md)
     * [11.8 第二个例子：读和写](eBook/11.8.md)
     * [11.9 空接口](eBook/11.9.md)
+<<<<<<< HEAD
 
+=======
+>>>>>>> gitbook init
 * [第12章：读写数据](eBook/12.0.md)
 * 第13章：错误处理与测试
 * 第14章：goroutine 与 channel
