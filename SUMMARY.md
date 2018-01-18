@@ -3,7 +3,6 @@
 * 第1章：Go 语言的起源，发展与普及
   * [起源与发展](eBook/01.1.md)
   * [语言的主要特性与发展的环境和影响因素](eBook/01.2.md)
-
 * 第2章：安装与运行环境
 	* [平台与架构](eBook/02.1.md)
 	* [Go 环境变量](eBook/02.2.md)
@@ -13,7 +12,6 @@
 	* [安装目录清单](eBook/02.6.md)
 	* [Go 运行时（runtime）](eBook/02.7.md)
 	* [Go 解释器](eBook/02.8.md)
-	
 * [第3章：编辑器、集成开发环境与其它工具](eBook/03.0.md)
 	* [Go 开发环境的基本要求](eBook/03.1.md)
 	* [编辑器和集成开发环境](eBook/03.2.md)
@@ -24,7 +22,6 @@
 	* [其它工具](eBook/03.7.md)
 	* [Go 性能说明](eBook/03.8.md)
 	* [与其它语言进行交互](eBook/03.9.md)
-	
 * 第4章：基本结构和基本数据类型
 	* [文件名、关键字与标识符](eBook/04.1.md)
 	* [Go 程序的基本结构和要素](eBook/04.2.md)
@@ -35,7 +32,6 @@
 	* [strings 和 strconv 包](eBook/04.7.md)
 	* [时间和日期](eBook/04.8.md)
 	* [指针](eBook/04.9.md)
-	
 * [第5章：控制结构](eBook/05.0.md)
 	* [if-else 结构](eBook/05.1.md)
 	* [测试多返回值函数的错误](eBook/05.2.md)
@@ -43,7 +39,6 @@
 	* [for 结构](eBook/05.4.md)
 	* [Break 与 continue](eBook/05.5.md)
 	* [标签与 goto](eBook/05.6.md)
-	
 * [第6章：函数（function）](eBook/06.0.md)
 	* [介绍](eBook/06.1.md)
 	* [函数参数与返回值](eBook/06.2.md)
@@ -57,7 +52,6 @@
 	* [使用闭包调试](eBook/06.10.md)
 	* [计算函数执行时间](eBook/06.11.md)
 	* [通过内存缓存来提升性能](eBook/06.12.md)
-	
 * [第7章：数组与切片](eBook/07.0.md)
 	* [声明和初始化](eBook/07.1.md)
 	* [切片](eBook/07.2.md)
@@ -65,7 +59,6 @@
 	* [切片重组（reslice）](eBook/07.4.md)
 	* [切片的复制与追加](eBook/07.5.md)
 	* [字符串、数组和切片的应用](eBook/07.6.md)
-	
 * [第8章：Map](eBook/08.0.md)
 	* [声明、初始化和 make](eBook/08.1.md)
 	* [测试键值对是否存在及删除元素](eBook/08.2.md)
@@ -73,7 +66,6 @@
 	* [map 类型的切片](eBook/08.4.md)
 	* [map 的排序](eBook/08.5.md)
 	* [将 map 的键值对调](eBook/08.6.md)
-	
 * [第9章：包（package）](eBook/09.0.md)
 	* [标准库概述](eBook/09.1.md)
 	* [regexp 包](eBook/09.2.md)
@@ -86,7 +78,6 @@
 	* [通过 Git 打包和安装](eBook/09.9.md)
 	* [Go 的外部包和项目](eBook/09.10.md)
 	* [在 Go 程序中使用外部库](eBook/09.11.md)
-	
 * [第10章：结构（struct）与方法（method）](eBook/10.0.md)
     * [结构体定义](eBook/10.1.md)
     * [使用工厂方法创建结构体实例](eBook/10.2.md)
@@ -96,7 +87,6 @@
     * [方法](eBook/10.6.md)
     * [类型的 String() 方法和格式化描述符](eBook/10.7.md)
     * [垃圾回收和 SetFinalizer](eBook/10.8.md)
-    
 * [第11章：接口（interface）与反射（reflection）](eBook/11.0.md)
     * [接口是什么](eBook/11.1.md)
     * [接口嵌套接口](eBook/11.2.md)
@@ -107,7 +97,6 @@
     * [第一个例子：使用 Sorter 接口排序](eBook/11.7.md)
     * [第二个例子：读和写](eBook/11.8.md)
     * [空接口](eBook/11.9.md)
-
 * [第12章：读写数据](eBook/12.0.md)
     * [读取用户的输入](eBook/12.1.md)
     * [文件读写](eBook/12.2.md)
@@ -121,7 +110,6 @@
     * [XML 数据格式](eBook/12.10.md)
     * [用 Gob 传输数据](eBook/12.11.md)
     * [Go 中的密码学](eBook/12.12.md)
-
 * [第13章：错误处理与测试](eBook/13.0.md)
     * [错误处理](eBook/13.1.md)
     * [运行时异常和 panic](eBook/13.2.md)
@@ -133,7 +121,6 @@
     * [测试的具体例子](eBook/13.8.md)
     * [用（测试数据）表驱动测试](eBook/13.9.md)
     * [性能调试：分析并优化 Go 程序](eBook/13.10.md)
-
 * [第14章：协程（goroutine）与通道（channel）](eBook/14.0.md)
     * [并发、并行和协程](eBook/14.1.md)
     * [使用通道进行协程间通信](eBook/14.2.md)
@@ -141,13 +128,11 @@
     * [使用 select 切换协程](eBook/14.4.md)
     * [通道，超时和计时器（Ticker）](eBook/14.5.md)
     * [协程和恢复（recover）](eBook/14.6.md)
-
 * [第15章：网络、模版与网页应用](eBook/15.0.md)
     * [tcp服务器](eBook/15.1.md)
     * [一个简单的web服务器](eBook/15.2.md)
     * [访问并读取页面数据](eBook/15.3.md)
     * [写一个简单的网页应用](eBook/15.4.md)
-
 * [第16章：常见的陷阱与错误](eBook/16.0.md)
     * [误用短声明导致变量覆盖](eBook/16.1.md)
     * [误用字符串](eBook/16.2.md)
